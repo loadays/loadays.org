@@ -1,0 +1,47 @@
+<footer class="footer-area">
+	<div class="row footer-bottom align-items-center">
+		<p class="col-lg-12 col-md-12 footer-text m-0">
+			LOADays is a free open source event. LOADays logo is property of the LOADays group.<br>
+			Copyleft 2013 - {{ now.Year }}, LOADays.<br>
+			All logos are used with permission of their respective owner(s). 
+			{{ if .GitInfo }}
+				Git {{ .GitInfo.AbbreviatedHash }}<br>
+			{{ end }}
+		</p>
+	</div>
+</footer>
+
+{{ if .Site.Params.analytics.piwik }}
+	{{ partial "_analytics/piwik.html" . }}
+{{ end }}
+
+{{ $themejavascript := resources.Get "js/theme.js" }}
+{{ $themejs := $themejavascript | resources.Minify }}
+<script src="{{ $themejs.RelPermalink }}"></script>
+{{ $popperjavascript := resources.Get "js/popper.js" }}
+{{ $popperjs := $popperjavascript | resources.Minify }}
+<script src="{{ $popperjs.RelPermalink }}"></script>
+{{ $stellarjavascript := resources.Get "js/stellar.js" }}
+{{ $stellarjs := $stellarjavascript | resources.Minify }}
+<script src="{{ $stellarjs.RelPermalink }}"></script>
+{{ $counterupjavascript := resources.Get "js/counterup.js" }}
+{{ $counterupjs := $counterupjavascript | resources.Minify }}
+<script src="{{ $counterupjs.RelPermalink }}"></script>
+{{ $timerjavascript := resources.Get "js/timer.js" }}
+{{ $timerjs := $timerjavascript | resources.Minify }}
+<script src="{{ $timerjs.RelPermalink }}"></script>
+
+<script src="{{ "/js/jquery-3.2.1.min.js" | relURL }}"></script>
+<script src="{{ "/js/bootstrap.min.js" | relURL }}"></script>
+<script src="{{ "/js/simplelightbox.min.js" | relURL }}"></script>
+<script src="{{ "/js/jquery.nice-select.min.js" | relURL }}"></script>
+<script src="{{ "/js/owl.carousel.min.js" | relURL }}"></script>
+<script src="{{ "/js/jquery.waypoints.min.js" | relURL }}"></script>
+<script src="{{ "/js/isotope-min.js" | relURL }}"></script>
+<script src="{{ "/js/imagesloaded.pkgd.min.js" | relURL }}"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+<script src="{{ "js/gmaps.min.js" | relURL }}"></script>
+
+</body>
+</html>

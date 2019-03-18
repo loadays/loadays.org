@@ -1,0 +1,40 @@
+<section id="sponsors-bar">
+	<div id="sponsors-bar">
+		<h1>Sponsors</h1>
+		{{ range $.Site.Data.sponsorlevels }}
+		<ul>
+			<li>
+				<h2>{{ .name }} Sponsors</h2>
+				{{ $key := .identifier }}
+				{{ $imageheight := .image.height }}
+				{{ $imagewidth := .image.width }}
+				{{ $imagesize := .size }}
+				<ul>
+				{{ range $.Site.Pages }}
+					{{ $level := .Param "level" }}
+					{{ if eq $level $key }}
+					<li>
+						{{ if .Param "link" }}
+							<a href="{{ .Param "link" }}">
+						{{ end }}
+						{{ if .Param "image" }}
+							{{ $imagename := .Param "image" }}
+							{{ $imagelocation := (printf "%s/%s" "images/sponsors/" $imagename) }}
+							{{ $imageresource := resources.Get $imagelocation }}
+							{{ $image := $imageresource.Resize "150x75" }}
+							<img src="{{  $image.RelPermalink }}" alt="{{ .Title }}">
+						{{ else }}
+							{{ .Title }}
+						{{ end }}
+						{{ if .Param "link" }}
+							</a>
+						{{ end }}
+					</li>
+					{{ end }}
+				{{ end }}
+				</ul>
+			</li>
+		</ul>
+		{{ end }}
+	</div>
+</section>

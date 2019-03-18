@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+<section id="sponsors">
+	<div id="sponsors">
+		{{ if .Content }}
+			<h1>{{ .Title }}</h1>
+			{{ .Content }}
+		{{ end }}
+		{{ range $.Site.Data.sponsorlevels }}
+			<ul>
+				<li>
+					<h2>{{ .name }}</h2>
+					{{ $key := .identifier }}
+					{{ $imageheight := .image.height }}
+					{{ $imagewidth := .image.width }}
+					{{ $imagesize := .size }}
+					<ul>
+						{{ range $.Site.Pages }}
+						{{ $level := .Param "level" }}
+							{{ if eq $level $key }}
+								<li>
+									{{ if .Param "link" }}
+										<a href="{{ .Param "link" }}">
+									{{ end }}
+									{{ if .Param "image" }}
+										{{ $imagename := .Param "image" }}
+										{{ $imagelocation := (printf "%s/%s" "images/sponsors/" $imagename) }}
+										{{ $imageresource := resources.Get $imagelocation }}
+										{{ $image := $imageresource.Fit $imagesize }}
+										<img src="{{  $image.RelPermalink }}" alt="{{ .Title }}">
+									{{ else }}
+										{{ .Title }}
+									{{ end }}
+									{{ if .Param "link" }}
+										</a>
+									{{ end }}
+								</li>
+								{{ if eq $level "titanium" }}
+									<br>
+									<br>
+								{{ end }}
+							{{ end }}
+						{{ end }}
+					</ul>
+				</li>
+			</ul>
+		{{ end }}
+	</div>
+</section>
+
+{{ partial "footer.html" . }}

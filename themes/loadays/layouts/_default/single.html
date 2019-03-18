@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+{{ partial "sponsors.html" . }}
+
+<section id="main">
+	<div class="banner_inner">
+		<h1>{{ .Title }}</h1>
+		{{ .Content }}
+	</div>
+</section>
+
+{{ partial "footer.html" . }}

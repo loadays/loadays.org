@@ -1,0 +1,76 @@
+### config.toml
+title = "LOADays"
+baseURL = "https://loadays.org/"
+theme = "loadays"
+languageCode = "en-us"
+dataDir = "data"
+assetDir = "assets"
+PaginatePath = "blog"
+sectionPagesMenu = "main"
+buildDrafts = false
+pygmentsUseClasses = true
+enableGitInfo = true
+enableRobotsTXT = true
+
+[outputs]
+section = [ "HTML", "Calendar" ]
+
+[params.conference]
+	Date = "4th and 5th of May 2019"
+
+
+### navbar
+[[menu.navbar]]
+	name = "Venue"
+	identifier = "venue"
+	url = "/venue/"
+	weight = -1000
+[[menu.navbar]]
+	name = "CfP"
+	identifier = "cfp"
+	url = "https://cfp.loadays.org/2019/"
+	weight = -900
+[[menu.navbar]]
+	name = "Sponsors"
+	identifier = "sponsors"
+	url = "/sponsors/"
+	weight = -800
+[[menu.navbar]]
+	name = "Social"
+	identifier = "social"
+	url = "/social/"
+	weight = -700
+#[[menu.navbar]]
+#	name = "Speakers"
+#	identifier = "speakers"
+#	url = "/speaker/"
+#	weight = -600
+#[[menu.navbar]]
+#	name = "Schedule"
+#	identifier = "schedule"
+#	url = "/schedule/"
+#	weight = -500
+[[menu.navbar]]
+	name = "About"
+	identifier = "about"
+	url = "/about/"
+	weight = -400
+[[menu.navbar]]
+	name = "FAQ"
+	identifier = "faq"
+	url = "/faq/"
+	weight = -300
+[[menu.navbar]]
+	name = "CoB"
+	identifier = "cob"
+	url = "/codeofbehaviour/"
+	weight = -200
+#[[menu.navbar]]
+#	name = "Archive"
+#	identifier = "archive"
+#	url = "https://archive.cfgmgmtcamp.eu/"
+#	weight = -100
+
+[params.analytics.piwik]
+	URL = "https://stats.vantosh.com"
+	ID = "57"

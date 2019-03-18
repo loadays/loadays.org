@@ -1,0 +1,44 @@
+<header class="header_area">
+	<div class="main_menu">
+		<nav class="navbar navbar-expand-lg navbar-light">
+			<div class="container box_1620">
+				<a class="navbar-brand logo_h" href="/">
+					{{ $loadaysimage := "images/loadays.png" }}
+					{{ $imageresource := resources.Get $loadaysimage }}
+					{{ $image := $imageresource.Fit "100x100" }}
+					<img src="{{ $image.RelPermalink }}" alt="LOADays">
+				</a>
+				<span class="navbar-brand-confdate">
+					{{ .Site.Params.conference.Date }}
+				</span>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+					<ul class="nav navbar-nav menu_nav ml-auto">
+						{{ range .Site.Menus.navbar }}
+							{{ if .HasChildren }}
+								<li class="nav-item submenu dropdown">
+									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }}</a>
+									<ul class="dropdown-menu">
+									{{ range .Children }}
+										<li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+									{{ end }}
+									</ul>
+								</li>
+							{{ else }}
+								<li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
+							{{ end }}
+						{{ end }}
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li class="nav-item"><a href="#" class="search"><i class="lnr lnr-magnifier"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+</header>
+
