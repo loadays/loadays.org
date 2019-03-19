@@ -1,23 +1,179 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LOADays</title><link>https://loadays.org/</link><description>Recent content on LOADays</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://loadays.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Don Bosco Wilrijk</title><link>https://loadays.org/sponsors/donboscowilrijk/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/donboscowilrijk/</guid><description/></item><item><title>IT Partners</title><link>https://loadays.org/sponsors/itpartners/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/itpartners/</guid><description/></item><item><title>Inuits</title><link>https://loadays.org/sponsors/inuits/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/inuits/</guid><description/></item><item><title>VanTosh</title><link>https://loadays.org/sponsors/vantosh/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/vantosh/</guid><description/></item><item><title>Code of Behaviour</title><link>https://loadays.org/codeofbehaviour/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/codeofbehaviour/</guid><description>LOADays is a community conference intended for networking and collaboration in the community of people interested in system engineering and operations.
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience.
-Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored or not.
-Exhibitors, speakers, sponsors, staff and all other attendees at LOADays are subject to this Code of Behaviour.</description></item><item><title>Social Event</title><link>https://loadays.org/social/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/social/</guid><description>The social event takes place on Saturday evening after the presentation.
-This is also a free event with free food and drinks.
-The pizza&amp;rsquo;s are offered by our sponsor IT Partners.</description></item><item><title>Venue</title><link>https://loadays.org/venue/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/venue/</guid><description>Address $ which /location/don_bosco &amp;gt; Don Bosco werken én leren &amp;gt; Valkenveld 70 &amp;gt; 2610 Wilrijk &amp;gt; Belgium By Car Don Bosco Wilrijk is situated next to the A12 Bridge near de Boomsesteenweg (A12) Wilrijk.
-Coming from Boom it&amp;rsquo;s on your right, coming from Antwerp it&amp;rsquo;s on your left (straight across Dockx rentals)
-Coming from the E19 Take the exit Wilrijk, till you reach Boomse Steenweg (the bridge) then left direction Boom (as above).</description></item><item><title>LOADays CfP 2019 is open.</title><link>https://loadays.org/posts/post_11/</link><pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_11/</guid><description>The Call-for-Presentation is open for LOADays 2019. The CfP runs till end of March 2019, 31-03-2019. Please take a look on https://cfp.loadays.org/2019/ The event takes place on 4th and 5th of May 2019 in Antwerp, Belgium.</description></item><item><title>Loadays 2019 has new dates!</title><link>https://loadays.org/posts/post_10/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_10/</guid><description>LOADays 2019 is still a GO, however by popular demand we rescheduled LOADays 2019. The new dates are 4th and 5th of May 2019 in Antwerp, Belgium. We&amp;rsquo;ll be opening the CfP shortly.</description></item><item><title>Loadays 2019 is a GO!</title><link>https://loadays.org/posts/post_09/</link><pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_09/</guid><description>LOADays 2019 is a GO and will be held on 27th and 28th of April 2018 in Antwerp, Belgium. We&amp;rsquo;ll be opening the CfP shortly.</description></item><item><title>LOADays Schedule 2018 Online</title><link>https://loadays.org/posts/post_08/</link><pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_08/</guid><description>The final draft of the LOADays 2018 schedule is online at http://loadays.org/pages/schedule.html</description></item><item><title>Call for Presentations LOADays 2018 Extended!</title><link>https://loadays.org/posts/post_07/</link><pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_07/</guid><description>The Call for Presentations, Workshops, Ignites are open for submission. The CfP has been extended and will be open until 8th of April 2018. We decided to run the CfP in git, more specificaly gitlab. Please follow the following process.
-Using a Merge Request by following the next steps :
-Fork the gitlab project https://git.loadays.eu/2018loadaysbe/cfp Create a new branch Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.</description></item><item><title>Call for Presentations LOADays 2018!</title><link>https://loadays.org/posts/post_06/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_06/</guid><description>The Call for Presentations, Workshops, Ignites are open for submission. The CfP will be open until 2th of March 2018. We decided to run the CfP in git, more specificaly gitlab. Please follow the following process.
-Using a Merge Request by following the next steps :
-Fork the gitlab project https://git.loadays.eu/2018loadaysbe/cfp Create a new branch Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.</description></item><item><title>Loadays 2018 is a GO!</title><link>https://loadays.org/posts/post_05/</link><pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_05/</guid><description>LOAD 2018 is a GO and will be held on 21th and 22th of April 2018 in Antwerp, Belgium.</description></item><item><title>LPI @ Loadays</title><link>https://loadays.org/posts/post_04/</link><pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_04/</guid><description>As in previous years the Linux Professional Institute (LPI) wants to offer PBT LPI exams at loadays.
-LPI Certifications are globally accepted certifications that are:
-Designed by a community of Linux professionals, volunteers, vendors and educators. Challenging: if you don&amp;rsquo;t know the subjects you won&amp;rsquo;t pass. Accessible and available at thousands of test centres around the world or at special events. Of high quality: relying on critical input from numerous Linux experts and employing scientific and industry-recognized psychometric processes.</description></item><item><title>Loadays Call for Sponsors</title><link>https://loadays.org/posts/post_03/</link><pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_03/</guid><description>For the upcoming Loadays we are again looking for sponsors to make this event happen. We rely on sponsoring to help cover costs to accommodate speakers, infrastructure, provide food at affordable prices, etc..
-This way we can keep the event free
-Levels of sponsorship Bronze (250€) : small logo on the website Silver (500€) : logo on the website and mentioned on mailings to visitors and speakers Gold (750€ +) : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference In case you are interested in one of the options above, please drop us an email at info@loadays.</description></item><item><title>Loadays CFP 2015</title><link>https://loadays.org/posts/post_02/</link><pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_02/</guid><description>After a successful fifth edition of LOAD, the crew decided to organize a sixth edition.
-You are invited to submit a proposal to participate in the 2015 Linux Open Administration Days in Wilrijk, Belgium on April 11 and 12 2015.
-More info about how to submit your proposal can be found here
-The Linux Open Administration Days is a conference focusing on Linux and Open Administration/engineering. We are trying to fill a gap for System Engineers and Administrators using Open Source technologies.</description></item><item><title>Loadays 2015 is a GO!</title><link>https://loadays.org/posts/post_01/</link><pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_01/</guid><description>LOAD 2015 is a GO and will be held on 11th and 12th of April 2015.</description></item><item><title>About LOADays</title><link>https://loadays.org/about/</link><pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate><guid>https://loadays.org/about/</guid><description>LOADays stands for Linux Open Administration Days and is also referred to as LOAD.
-This is an event geared towards Linux and Unix sysadmins and people interested in Free Open Source Linux and Unix system administration, configuration and deployment.
-With this event we want to provide a platform for Linux and Unix SysAdmins to get together and share their knowledge and tools.
-This is a free event, and therefore there&amp;rsquo;s no entrance fee !</description></item><item><title/><link>https://loadays.org/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loadays.org/faq/</guid><description>Social Media irc : server freenode channel #loadays twitter : @loadays and during the conference we will use the hashtag #loadays Infrastructure We&amp;rsquo;ll provide internet access for all visitors. SSID : LOAD
-Food and Drinks People from the school where the event is taking place will sell drinks, sandwiches and fries at a very reasonable price. There&amp;rsquo;re also some places to eat in the neighborhood.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LOADays</title><link>https://loadays.org/</link><description>Recent content on LOADays</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://loadays.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Don Bosco Wilrijk</title><link>https://loadays.org/sponsors/donboscowilrijk/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/donboscowilrijk/</guid><description/></item><item><title>LOADays website update</title><link>https://loadays.org/posts/post_12/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_12/</guid><description>&lt;p&gt;LOADays has a new website, which is responsive and mobile friendly.
+The CfP runs till end of March 2019, please submit your proposals sooner rather then later.
+We&amp;rsquo;re also looking for sponsors, please take a look at the &lt;a href=&#34;https://loadays.org/sponsors/&#34;&gt;sponsor&lt;/a&gt; page for more information.&lt;/p&gt;</description></item><item><title>IT Partners</title><link>https://loadays.org/sponsors/itpartners/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/itpartners/</guid><description/></item><item><title>Inuits</title><link>https://loadays.org/sponsors/inuits/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/inuits/</guid><description/></item><item><title>VanTosh</title><link>https://loadays.org/sponsors/vantosh/</link><pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/sponsors/vantosh/</guid><description/></item><item><title>Code of Behaviour</title><link>https://loadays.org/codeofbehaviour/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/codeofbehaviour/</guid><description>
+&lt;p&gt;LOADays is a community conference intended for networking and collaboration in the community of people interested in system engineering and operations.&lt;/p&gt;
+&lt;p&gt;We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience.&lt;br /&gt;
+Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored or not.&lt;/p&gt;
+&lt;p&gt;Exhibitors, speakers, sponsors, staff and all other attendees at LOADays are subject to this Code of Behaviour. We are dedicated to providing a harassment-free experience for everyone, and we do not tolerate harassment of participants in any form.&lt;/p&gt;
+&lt;p&gt;We ask you to be considerate of others and behave professionally and respectfully to all other participants. Remember that sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the conference organizers.&lt;/p&gt;
+&lt;p&gt;Harassment includes offensive verbal comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, real or implied violence, intimidation, oppression, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
+&lt;p&gt;Be careful in the words that you choose.&lt;br /&gt;
+Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.&lt;br /&gt;
+If you think your conversation is making another community member uncomfortable, try to make amends and move forward.&lt;/p&gt;
+&lt;p&gt;If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.&lt;/p&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.&lt;/p&gt;
+&lt;p&gt;Event staff will be happy to help participants address concerns. All reports will be treated as confidential. We strongly encourage you to address your issues privately with any of our staff members who are organizing the event. We encourage you to avoid disclosing information about the incident until the staff have had sufficient time in which to address the situation. Please also keep in mind that public shaming can be counter-productive to building a strong community. We do not condone nor participate in such actions.&lt;/p&gt;
+&lt;p&gt;If you cannot find a member of the event staff or are not comfortable contacting one of the staff, you can alternatively contact any of the people listed below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kris Buytaert - kris.buytaert at inuits dot eu, @krisbuytaert&lt;/li&gt;
+&lt;li&gt;Robert Keersse - robert.keersse at donboscowilrijk dot be, @robertkeersse&lt;/li&gt;
+&lt;li&gt;Toshaan Bharvani - toshaan at vantosh dot com, @toshywoshy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All organizers can be reached at info [at] loadays [dot] org&lt;/p&gt;
+&lt;p&gt;We expect all participants to follow these rules at all event venues and related social events.&lt;/p&gt;
+&lt;p&gt;Thank you for helping make this a welcoming, friendly event for all.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;Credit to 01.org and meego.com, since they formed the starting point for many of these guidelines.&lt;br /&gt;
+The Event Code of Behaviour is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. The PyCon Code of Conduct also served as inspiration.&lt;/p&gt;</description></item><item><title>Social Event</title><link>https://loadays.org/social/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/social/</guid><description>&lt;p&gt;The social event takes place on Saturday evening after the presentation.&lt;br /&gt;
+This is also a &lt;em&gt;free&lt;/em&gt; event with &lt;em&gt;free&lt;/em&gt; food and drinks.&lt;br /&gt;
+The pizza&amp;rsquo;s are offered by our sponsor &lt;em&gt;IT Partners&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Venue</title><link>https://loadays.org/venue/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/venue/</guid><description>
+&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ which /location/don_bosco
+&amp;gt; Don Bosco werken én leren
+&amp;gt; Valkenveld 70
+&amp;gt; 2610 Wilrijk
+&amp;gt; Belgium
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;by-car&#34;&gt;By Car&lt;/h2&gt;
+&lt;p&gt;Don Bosco Wilrijk is situated next to the A12 Bridge near de Boomsesteenweg (A12) Wilrijk.&lt;br /&gt;
+Coming from Boom it&amp;rsquo;s on your right, coming from Antwerp it&amp;rsquo;s on your left (straight across Dockx rentals)&lt;/p&gt;
+&lt;h3 id=&#34;coming-from-the-e19&#34;&gt;Coming from the E19&lt;/h3&gt;
+&lt;p&gt;Take the exit Wilrijk, till you reach Boomse Steenweg (the bridge) then left direction Boom (as above).&lt;br /&gt;
+From the Antwerp Ring take exit Wilrijk, Boom. Follow A12 direction Boom, take exit Wilrijk! then return back direction Antwerpen using the outer lanes&lt;/p&gt;
+&lt;h2 id=&#34;by-train&#34;&gt;By Train&lt;/h2&gt;
+&lt;p&gt;Take the train to &lt;strong&gt;Antwerpen Centraal&lt;/strong&gt; or &lt;strong&gt;Antwerpen Berchem&lt;/strong&gt; railway station&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From &lt;em&gt;Antwerpen Centraal&lt;/em&gt; take the bus :
+&lt;ul&gt;
+&lt;li&gt;Bus number &lt;strong&gt;17&lt;/strong&gt; : Direction UZA / Wilrijk&lt;/li&gt;
+&lt;li&gt;Bus number &lt;strong&gt;21&lt;/strong&gt; : Direction Neerland / Wilrijk / Middelheim&lt;/li&gt;
+&lt;li&gt;Bus number &lt;strong&gt;500&lt;/strong&gt; - Direction: Mechelen / Boom / Rumst^&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;From &lt;em&gt;Antwerpen Berchem&lt;/em&gt; take the bus :
+&lt;ul&gt;
+&lt;li&gt;Bus number &lt;strong&gt;21&lt;/strong&gt; : Direction Neerland / Wilrijk / Middelheim&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;by-bus&#34;&gt;By Bus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Busses that stop at the valkstraat (Boomsesteenweg)
+&lt;ul&gt;
+&lt;li&gt;21 : Neerland - Rooseveltplaats Antwerp&lt;/li&gt;
+&lt;li&gt;500: Mechelen - De Keyserlei Antwerp&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Busses that stop at Wilrijk Bist
+&lt;ul&gt;
+&lt;li&gt;17 : UZA-Wilrijk - Central station Antwerp&lt;/li&gt;
+&lt;li&gt;21 : Neerland - Central station Antwerp&lt;/li&gt;
+&lt;li&gt;21 : Neerland - Berchem station Antwerp&lt;/li&gt;
+&lt;li&gt;22 : UZA-Wilrijk - Groenplaats Antwerp&lt;/li&gt;
+&lt;li&gt;180 : Aartselaar - Groenplaats Antwerp&lt;/li&gt;
+&lt;li&gt;181 : Rumst - Groenplaats Antwerp&lt;/li&gt;
+&lt;li&gt;182 : Boom - Groenplaats Antwerp&lt;/li&gt;
+&lt;li&gt;183 : Niel - Groenplaats Antwerp&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;extra-info&#34;&gt;Extra info&lt;/h2&gt;
+&lt;p&gt;For the train use the following url for more information &lt;a href=&#34;http://www.belgianrail.be/&#34;&gt;NMBS&lt;/a&gt;&lt;br /&gt;
+For bus/tram use &lt;a href=&#34;http://www.delijn.be/&#34;&gt;De Lijn&lt;/a&gt;&lt;/p&gt;</description></item><item><title>LOADays CfP 2019 is open.</title><link>https://loadays.org/posts/post_11/</link><pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_11/</guid><description>&lt;p&gt;The Call-for-Presentation is open for LOADays 2019.
+The CfP runs till end of March 2019, 31-03-2019.
+Please take a look on &lt;a href=&#34;https://cfp.loadays.org/2019/&#34;&gt;https://cfp.loadays.org/2019/&lt;/a&gt;
+The event takes place on &lt;strong&gt;4th and 5th of May 2019&lt;/strong&gt; in Antwerp, Belgium.&lt;/p&gt;</description></item><item><title>Loadays 2019 has new dates!</title><link>https://loadays.org/posts/post_10/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_10/</guid><description>&lt;p&gt;LOADays 2019 is still a GO, however by popular demand we rescheduled LOADays 2019.
+The new dates are &lt;strong&gt;4th and 5th of May 2019&lt;/strong&gt; in Antwerp, Belgium.
+We&amp;rsquo;ll be opening the CfP shortly.&lt;/p&gt;</description></item><item><title>Loadays 2019 is a GO!</title><link>https://loadays.org/posts/post_09/</link><pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_09/</guid><description>&lt;p&gt;LOADays 2019 is a GO and will be held on 27th and 28th of April 2018 in Antwerp, Belgium.
+We&amp;rsquo;ll be opening the CfP shortly.&lt;/p&gt;</description></item><item><title>LOADays Schedule 2018 Online</title><link>https://loadays.org/posts/post_08/</link><pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_08/</guid><description>&lt;p&gt;The final draft of the LOADays 2018 schedule is online at &lt;a href=&#34;http://loadays.org/pages/schedule.html&#34;&gt;http://loadays.org/pages/schedule.html&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Call for Presentations LOADays 2018 Extended!</title><link>https://loadays.org/posts/post_07/</link><pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_07/</guid><description>&lt;p&gt;The Call for Presentations, Workshops, Ignites are open for submission.
+The CfP has been &lt;em&gt;extended&lt;/em&gt; and will be open until &lt;strong&gt;8th of April 2018&lt;/strong&gt;.
+We decided to run the CfP in git, more specificaly gitlab.
+Please follow the following process.&lt;/p&gt;
+&lt;p&gt;Using a Merge Request by following the next steps :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork the gitlab project &lt;a href=&#34;https://git.loadays.eu/2018loadaysbe/cfp&#34;&gt;https://git.loadays.eu/2018loadaysbe/cfp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a new branch&lt;/li&gt;
+&lt;li&gt;Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Add you biopgraphy to the speaker/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Send us a Merge Request again the main master project&lt;/li&gt;
+&lt;li&gt;If you get a 404 error, please do not panic, you cannot see your own MR and gitlab doens&amp;rsquo;t know what to show.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;more information on &lt;a href=&#34;https://loadays.org/pages/cfp.html&#34;&gt;CfP page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also send in your proposal via email to &lt;a href=&#34;mailto:cfp@loadays.org?Subject=CfP LOADays 2018&#34;&gt;cfp@loadays.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Call for Presentations LOADays 2018!</title><link>https://loadays.org/posts/post_06/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_06/</guid><description>&lt;p&gt;The Call for Presentations, Workshops, Ignites are open for submission.
+The CfP will be open until &lt;strong&gt;2th of March 2018&lt;/strong&gt;.
+We decided to run the CfP in git, more specificaly gitlab.
+Please follow the following process.&lt;/p&gt;
+&lt;p&gt;Using a Merge Request by following the next steps :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork the gitlab project &lt;a href=&#34;https://git.loadays.eu/2018loadaysbe/cfp&#34;&gt;https://git.loadays.eu/2018loadaysbe/cfp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a new branch&lt;/li&gt;
+&lt;li&gt;Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Add you biopgraphy to the speaker/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Send us a Merge Request again the main master project&lt;/li&gt;
+&lt;li&gt;If you get a 404 error, please do not panic, you cannot see your own MR and gitlab doens&amp;rsquo;t know what to show.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;more information on &lt;a href=&#34;https://loadays.org/pages/cfp.html&#34;&gt;CfP page&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Loadays 2018 is a GO!</title><link>https://loadays.org/posts/post_05/</link><pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_05/</guid><description>&lt;p&gt;LOAD 2018 is a GO and will be held on 21th and 22th of April 2018 in Antwerp, Belgium.&lt;/p&gt;</description></item><item><title>LPI @ Loadays</title><link>https://loadays.org/posts/post_04/</link><pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_04/</guid><description>&lt;p&gt;As in previous years the Linux Professional Institute (LPI) wants
+to offer PBT LPI exams at loadays.&lt;/p&gt;
+&lt;p&gt;LPI Certifications are globally accepted certifications that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed by a community of Linux professionals, volunteers, vendors
+and educators.&lt;/li&gt;
+&lt;li&gt;Challenging: if you don&amp;rsquo;t know the subjects you won&amp;rsquo;t pass.&lt;/li&gt;
+&lt;li&gt;Accessible and available at thousands of test centres around the world
+or at special events.&lt;/li&gt;
+&lt;li&gt;Of high quality: relying on critical input from numerous Linux experts
+and employing scientific and industry-recognized psychometric
+processes.&lt;/li&gt;
+&lt;li&gt;Distribution-neutral: verifying knowledge on any standard Linux system.&lt;/li&gt;
+&lt;li&gt;Relevant: surveying thousands to determine the skills that need to be
+tested.&lt;/li&gt;
+&lt;li&gt;Supported and sponsored by a large number of Linux companies and
+projects.&lt;/li&gt;
+&lt;li&gt;A certification the Linux community can respect and be proud of.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At loadays we want to offer certification for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux Essentials € 60,-&lt;/li&gt;
+&lt;li&gt;LPIC-1 (101, 102) € 90,-&lt;/li&gt;
+&lt;li&gt;LPIC-2 (201, 202) € 90,-&lt;/li&gt;
+&lt;li&gt;LPIC-3 (300, 303, 304) €90,-&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Loadays Call for Sponsors</title><link>https://loadays.org/posts/post_03/</link><pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_03/</guid><description>
+&lt;p&gt;For the upcoming Loadays we are again looking for sponsors to make this event happen.
+We rely on sponsoring to help cover costs to accommodate speakers, infrastructure, provide food
+at affordable prices, etc..&lt;/p&gt;
+&lt;p&gt;This way we can keep the event free&lt;/p&gt;
+&lt;h3 id=&#34;levels-of-sponsorship&#34;&gt;Levels of sponsorship&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bronze&lt;/strong&gt; (250€) : small logo on the website&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Silver&lt;/strong&gt; (500€) : logo on the website and mentioned on mailings to visitors and speakers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gold&lt;/strong&gt; (750€ +) : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In case you are interested in one of the options above, please drop us an email
+at &lt;a href=&#34;mailto:info@loadays.org&#34;&gt;info@loadays.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Loadays CFP 2015</title><link>https://loadays.org/posts/post_02/</link><pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_02/</guid><description>&lt;p&gt;After a successful fifth edition of LOAD, the crew decided to organize a sixth edition.&lt;/p&gt;
+&lt;p&gt;You are invited to submit a proposal to participate in the 2015 Linux Open Administration Days in Wilrijk, Belgium on &lt;strong&gt;April 11 and 12 2015&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;More info about how to submit your proposal can be found &lt;a href=&#34;http://loadays.org/pages/call-for-presentation.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Linux Open Administration Days&lt;/em&gt;&lt;/strong&gt; is a conference focusing on Linux and Open Administration/engineering. We are trying to fill a gap for System Engineers and Administrators using Open Source technologies.&lt;/p&gt;
+&lt;p&gt;Now go and submit that proposal!&lt;/p&gt;</description></item><item><title>Loadays 2015 is a GO!</title><link>https://loadays.org/posts/post_01/</link><pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_01/</guid><description>&lt;p&gt;LOAD 2015 is a GO and will be held on 11th and 12th of April 2015.&lt;/p&gt;</description></item><item><title>About LOADays</title><link>https://loadays.org/about/</link><pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate><guid>https://loadays.org/about/</guid><description>
+&lt;p&gt;LOADays stands for Linux Open Administration Days and is also referred to as &lt;strong&gt;LOAD&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This is an event geared towards Linux and Unix sysadmins
+and people interested in Free Open Source Linux and Unix system administration,
+configuration and deployment.&lt;/p&gt;
+&lt;p&gt;With this event we want to provide a platform for Linux and Unix SysAdmins to get together and share their knowledge and tools.&lt;/p&gt;
+&lt;p&gt;This is a free event, and therefore there&amp;rsquo;s &lt;strong&gt;no entrance fee !&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Geert Goossens&lt;/li&gt;
+&lt;li&gt;Kenny Gryp&lt;/li&gt;
+&lt;li&gt;Kris Buytaert&lt;/li&gt;
+&lt;li&gt;Robert Keersse&lt;/li&gt;
+&lt;li&gt;Toshaan Bharvani&lt;/li&gt;
+&lt;li&gt;Vincent Van der Kussen&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>https://loadays.org/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loadays.org/faq/</guid><description>
+&lt;h2 id=&#34;social-media&#34;&gt;Social Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;irc&lt;/strong&gt; : server freenode channel #loadays&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;twitter&lt;/strong&gt; : &lt;a href=&#34;https://twitter.com/loadays&#34;&gt;@loadays&lt;/a&gt; and during the conference we will use the hashtag #loadays&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ll provide internet access for all visitors.
+&lt;em&gt;SSID : LOAD&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;food-and-drinks&#34;&gt;Food and Drinks&lt;/h2&gt;
+&lt;p&gt;People from the school where the event is taking place will sell drinks, sandwiches and fries at a very reasonable price.
+There&amp;rsquo;re also some places to eat in the neighborhood.&lt;/p&gt;</description></item></channel></rss>

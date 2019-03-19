@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on LOADays</title><link>https://loadays.org/posts/</link><description>Recent content in Posts on LOADays</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://loadays.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>LOADays website update</title><link>https://loadays.org/posts/post_12/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_12/</guid><description>&lt;p&gt;LOADays has a new website, which is responsive and mobile friendly.
+The CfP runs till end of March 2019, please submit your proposals sooner rather then later.
+We&amp;rsquo;re also looking for sponsors, please take a look at the &lt;a href=&#34;https://loadays.org/sponsors/&#34;&gt;sponsor&lt;/a&gt; page for more information.&lt;/p&gt;</description></item><item><title>LOADays CfP 2019 is open.</title><link>https://loadays.org/posts/post_11/</link><pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_11/</guid><description>&lt;p&gt;The Call-for-Presentation is open for LOADays 2019.
+The CfP runs till end of March 2019, 31-03-2019.
+Please take a look on &lt;a href=&#34;https://cfp.loadays.org/2019/&#34;&gt;https://cfp.loadays.org/2019/&lt;/a&gt;
+The event takes place on &lt;strong&gt;4th and 5th of May 2019&lt;/strong&gt; in Antwerp, Belgium.&lt;/p&gt;</description></item><item><title>Loadays 2019 has new dates!</title><link>https://loadays.org/posts/post_10/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_10/</guid><description>&lt;p&gt;LOADays 2019 is still a GO, however by popular demand we rescheduled LOADays 2019.
+The new dates are &lt;strong&gt;4th and 5th of May 2019&lt;/strong&gt; in Antwerp, Belgium.
+We&amp;rsquo;ll be opening the CfP shortly.&lt;/p&gt;</description></item><item><title>Loadays 2019 is a GO!</title><link>https://loadays.org/posts/post_09/</link><pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_09/</guid><description>&lt;p&gt;LOADays 2019 is a GO and will be held on 27th and 28th of April 2018 in Antwerp, Belgium.
+We&amp;rsquo;ll be opening the CfP shortly.&lt;/p&gt;</description></item><item><title>LOADays Schedule 2018 Online</title><link>https://loadays.org/posts/post_08/</link><pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_08/</guid><description>&lt;p&gt;The final draft of the LOADays 2018 schedule is online at &lt;a href=&#34;http://loadays.org/pages/schedule.html&#34;&gt;http://loadays.org/pages/schedule.html&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Call for Presentations LOADays 2018 Extended!</title><link>https://loadays.org/posts/post_07/</link><pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_07/</guid><description>&lt;p&gt;The Call for Presentations, Workshops, Ignites are open for submission.
+The CfP has been &lt;em&gt;extended&lt;/em&gt; and will be open until &lt;strong&gt;8th of April 2018&lt;/strong&gt;.
+We decided to run the CfP in git, more specificaly gitlab.
+Please follow the following process.&lt;/p&gt;
+&lt;p&gt;Using a Merge Request by following the next steps :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork the gitlab project &lt;a href=&#34;https://git.loadays.eu/2018loadaysbe/cfp&#34;&gt;https://git.loadays.eu/2018loadaysbe/cfp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a new branch&lt;/li&gt;
+&lt;li&gt;Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Add you biopgraphy to the speaker/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Send us a Merge Request again the main master project&lt;/li&gt;
+&lt;li&gt;If you get a 404 error, please do not panic, you cannot see your own MR and gitlab doens&amp;rsquo;t know what to show.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;more information on &lt;a href=&#34;https://loadays.org/pages/cfp.html&#34;&gt;CfP page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also send in your proposal via email to &lt;a href=&#34;mailto:cfp@loadays.org?Subject=CfP LOADays 2018&#34;&gt;cfp@loadays.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Call for Presentations LOADays 2018!</title><link>https://loadays.org/posts/post_06/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_06/</guid><description>&lt;p&gt;The Call for Presentations, Workshops, Ignites are open for submission.
+The CfP will be open until &lt;strong&gt;2th of March 2018&lt;/strong&gt;.
+We decided to run the CfP in git, more specificaly gitlab.
+Please follow the following process.&lt;/p&gt;
+&lt;p&gt;Using a Merge Request by following the next steps :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork the gitlab project &lt;a href=&#34;https://git.loadays.eu/2018loadaysbe/cfp&#34;&gt;https://git.loadays.eu/2018loadaysbe/cfp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a new branch&lt;/li&gt;
+&lt;li&gt;Add your proposal to the talk/ or worshop/ or ignite/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Add you biopgraphy to the speaker/ dir, a &amp;ldquo;template&amp;rdquo; is available (template.md)&lt;/li&gt;
+&lt;li&gt;Send us a Merge Request again the main master project&lt;/li&gt;
+&lt;li&gt;If you get a 404 error, please do not panic, you cannot see your own MR and gitlab doens&amp;rsquo;t know what to show.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;more information on &lt;a href=&#34;https://loadays.org/pages/cfp.html&#34;&gt;CfP page&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Loadays 2018 is a GO!</title><link>https://loadays.org/posts/post_05/</link><pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_05/</guid><description>&lt;p&gt;LOAD 2018 is a GO and will be held on 21th and 22th of April 2018 in Antwerp, Belgium.&lt;/p&gt;</description></item><item><title>LPI @ Loadays</title><link>https://loadays.org/posts/post_04/</link><pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_04/</guid><description>&lt;p&gt;As in previous years the Linux Professional Institute (LPI) wants
+to offer PBT LPI exams at loadays.&lt;/p&gt;
+&lt;p&gt;LPI Certifications are globally accepted certifications that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed by a community of Linux professionals, volunteers, vendors
+and educators.&lt;/li&gt;
+&lt;li&gt;Challenging: if you don&amp;rsquo;t know the subjects you won&amp;rsquo;t pass.&lt;/li&gt;
+&lt;li&gt;Accessible and available at thousands of test centres around the world
+or at special events.&lt;/li&gt;
+&lt;li&gt;Of high quality: relying on critical input from numerous Linux experts
+and employing scientific and industry-recognized psychometric
+processes.&lt;/li&gt;
+&lt;li&gt;Distribution-neutral: verifying knowledge on any standard Linux system.&lt;/li&gt;
+&lt;li&gt;Relevant: surveying thousands to determine the skills that need to be
+tested.&lt;/li&gt;
+&lt;li&gt;Supported and sponsored by a large number of Linux companies and
+projects.&lt;/li&gt;
+&lt;li&gt;A certification the Linux community can respect and be proud of.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At loadays we want to offer certification for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux Essentials € 60,-&lt;/li&gt;
+&lt;li&gt;LPIC-1 (101, 102) € 90,-&lt;/li&gt;
+&lt;li&gt;LPIC-2 (201, 202) € 90,-&lt;/li&gt;
+&lt;li&gt;LPIC-3 (300, 303, 304) €90,-&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Loadays Call for Sponsors</title><link>https://loadays.org/posts/post_03/</link><pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_03/</guid><description>
+&lt;p&gt;For the upcoming Loadays we are again looking for sponsors to make this event happen.
+We rely on sponsoring to help cover costs to accommodate speakers, infrastructure, provide food
+at affordable prices, etc..&lt;/p&gt;
+&lt;p&gt;This way we can keep the event free&lt;/p&gt;
+&lt;h3 id=&#34;levels-of-sponsorship&#34;&gt;Levels of sponsorship&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bronze&lt;/strong&gt; (250€) : small logo on the website&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Silver&lt;/strong&gt; (500€) : logo on the website and mentioned on mailings to visitors and speakers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gold&lt;/strong&gt; (750€ +) : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In case you are interested in one of the options above, please drop us an email
+at &lt;a href=&#34;mailto:info@loadays.org&#34;&gt;info@loadays.org&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Loadays CFP 2015</title><link>https://loadays.org/posts/post_02/</link><pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_02/</guid><description>&lt;p&gt;After a successful fifth edition of LOAD, the crew decided to organize a sixth edition.&lt;/p&gt;
+&lt;p&gt;You are invited to submit a proposal to participate in the 2015 Linux Open Administration Days in Wilrijk, Belgium on &lt;strong&gt;April 11 and 12 2015&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;More info about how to submit your proposal can be found &lt;a href=&#34;http://loadays.org/pages/call-for-presentation.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Linux Open Administration Days&lt;/em&gt;&lt;/strong&gt; is a conference focusing on Linux and Open Administration/engineering. We are trying to fill a gap for System Engineers and Administrators using Open Source technologies.&lt;/p&gt;
+&lt;p&gt;Now go and submit that proposal!&lt;/p&gt;</description></item><item><title>Loadays 2015 is a GO!</title><link>https://loadays.org/posts/post_01/</link><pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate><guid>https://loadays.org/posts/post_01/</guid><description>&lt;p&gt;LOAD 2015 is a GO and will be held on 11th and 12th of April 2015.&lt;/p&gt;</description></item></channel></rss>
