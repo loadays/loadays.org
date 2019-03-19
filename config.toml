@@ -13,7 +13,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 [outputs]
-section = [ "HTML", "Calendar" ]
+section = [ "HTML", "Calendar" , "RSS" ]
 
 [params.conference]
 	Date = "4th and 5th of May 2019"
