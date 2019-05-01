@@ -25,10 +25,15 @@ section = [ "HTML", "Calendar" , "RSS" ]
 	identifier = "venue"
 	url = "/venue/"
 	weight = -1000
+#[[menu.navbar]]
+#	name = "CfP"
+#	identifier = "cfp"
+#	url = "https://cfp.loadays.org/2019/"
+#	weight = -900
 [[menu.navbar]]
-	name = "CfP"
-	identifier = "cfp"
-	url = "https://cfp.loadays.org/2019/"
+	name = "Schedule"
+	identifier = "schedule"
+	url = "https://cfp.loadays.org/2019/schedule/"
 	weight = -900
 [[menu.navbar]]
 	name = "Sponsors"
