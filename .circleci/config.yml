@@ -1,14 +1,5 @@
 version: 2
 jobs:
-  production:
-    docker:
-      - image: cibuilds/hugo:0.55.6
-    steps:
-      - checkout
-      - run:
-          name: "Build site to GH Pages"
-          command: bin/deploy.sh
-
   build:
     docker:
       - image: cibuilds/hugo:0.55.6
