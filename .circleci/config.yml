@@ -20,7 +20,7 @@ jobs:
     steps:
       - run:
           name: "Netlify build hook"
-          command: curl -X POST -d {} https://api.netlify.com/build_hooks/
+          command: curl -X POST -d {} https://api.netlify.com/build_hooks/5cf1105805106417080169b1
 
 workflows:
   version: 2
