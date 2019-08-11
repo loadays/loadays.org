@@ -1,7 +1,8 @@
 <section id="sponsors-bar">
 	<div id="sponsors-bar">
 		<h1>Sponsors</h1>
-		{{ range $.Site.Data.sponsorlevels }}
+		{{ $data := index $.Site.Data .Site.Language.Lang }}
+		{{ range $data.sponsorlevels }}
 		<ul>
 			<li>
 				<h2>{{ .name }} Sponsors</h2>

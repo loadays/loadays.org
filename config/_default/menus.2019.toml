@@ -1,0 +1,56 @@
+### navbar
+[[navbar]]
+	name = "Venue"
+	identifier = "venue"
+	url = "/2019/venue/"
+	weight = -1000
+#[[navbar]]
+#	name = "CfP"
+#	identifier = "cfp"
+#	url = "https://cfp.loadays.org/2019/"
+#	weight = -900
+[[navbar]]
+	name = "Schedule"
+	identifier = "schedule"
+	url = "https://cfp.loadays.org/2019/schedule/"
+	weight = -900
+[[navbar]]
+	name = "Sponsors"
+	identifier = "sponsors"
+	url = "/2019/sponsors/"
+	weight = -800
+[[navbar]]
+	name = "Social"
+	identifier = "social"
+	url = "/2019/social/"
+	weight = -700
+#[[navbar]]
+#	name = "Speakers"
+#	identifier = "speakers"
+#	url = "/speaker/"
+#	weight = -600
+#[[navbar]]
+#	name = "Schedule"
+#	identifier = "schedule"
+#	url = "/schedule/"
+#	weight = -500
+[[navbar]]
+	name = "About"
+	identifier = "about"
+	url = "/2019/about/"
+	weight = -400
+[[navbar]]
+	name = "FAQ"
+	identifier = "faq"
+	url = "/2019/faq/"
+	weight = -300
+[[navbar]]
+	name = "CoB"
+	identifier = "cob"
+	url = "/2019/codeofbehaviour/"
+	weight = -200
+#[[avbar]]
+#	name = "Archive"
+#	identifier = "archive"
+#	url = "https://archive.cfgmgmtcamp.eu/"
+#	weight = -100

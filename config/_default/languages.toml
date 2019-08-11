@@ -1,0 +1,8 @@
+[2020]
+	title = "LOADays 2020"
+	contentDir = "content/2020/"
+	weight = -2020
+[2019]
+	title = "LOADays 2019"
+	contentDir = "content/2019/"
+	weight = -2019

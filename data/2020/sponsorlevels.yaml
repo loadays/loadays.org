@@ -1,0 +1,12 @@
+- name: Diamond
+  identifier: diamond
+  size: 600x600
+- name: Gold
+  identifier: gold
+  size: 300x300
+- name: Silver
+  identifier: silver
+  size: 150x150
+- name: Bronze
+  identifier: bronze
+  size: 100x100
