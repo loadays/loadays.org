@@ -2,8 +2,8 @@
 title = "LOADays"
 baseURL = "https://loadays.org/"
 theme = "loadays"
-languageCode = "2019"
-defaultContentLanguage = "2019"
+languageCode = [ "2019", "2020" ]
+defaultContentLanguage = "2020"
 defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = true
 dataDir = "data"

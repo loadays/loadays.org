@@ -2,27 +2,27 @@
 [[navbar]]
 	name = "Venue"
 	identifier = "venue"
-	url = "/venue/"
+	url = "/2020/venue/"
 	weight = -1000
 #[[navbar]]
 #	name = "CfP"
 #	identifier = "cfp"
 #	url = "https://cfp.loadays.org/2019/"
 #	weight = -900
-[[navbar]]
-	name = "Schedule"
-	identifier = "schedule"
-	url = "https://cfp.loadays.org/2019/schedule/"
-	weight = -900
+#[[navbar]]
+#	name = "Schedule"
+#	identifier = "schedule"
+#	url = "https://cfp.loadays.org/2019/schedule/"
+#	weight = -900
 [[navbar]]
 	name = "Sponsors"
 	identifier = "sponsors"
-	url = "/sponsors/"
+	url = "/2020/sponsors/"
 	weight = -800
 [[navbar]]
 	name = "Social"
 	identifier = "social"
-	url = "/social/"
+	url = "/2020/social/"
 	weight = -700
 #[[navbar]]
 #	name = "Speakers"
@@ -37,17 +37,17 @@
 [[navbar]]
 	name = "About"
 	identifier = "about"
-	url = "/about/"
+	url = "/2020/about/"
 	weight = -400
 [[navbar]]
 	name = "FAQ"
 	identifier = "faq"
-	url = "/faq/"
+	url = "/2020/faq/"
 	weight = -300
 [[navbar]]
 	name = "CoB"
 	identifier = "cob"
-	url = "/codeofbehaviour/"
+	url = "/2020/codeofbehaviour/"
 	weight = -200
 #[[navbar]]
 #	name = "Archive"
