@@ -1,10 +1,15 @@
 #!Makefile
 
 HUGO=hugo
+SPONSORDOCLATEST:=$(shell curl -s https://api.github.com/repos/loadays/sponsordoc/releases/latest | grep '"browser_download_url":' | awk '{print $$2}' | sed 's/"//g')
 
-.PHONY: build serve draft clean
+.PHONY: sponsordoc build serve draft clean
 
-all: build
+default all: sponsordoc build
+
+sponsordoc:
+	@echo $(SPONSORDOCLATEST)
+	@curl -sL $(SPONSORDOCLATEST) -o static/files/sponsordoc.pdf
 
 build:
 	$(HUGO) --minify
