@@ -4,11 +4,11 @@
 	identifier = "venue"
 	url = "/2020/venue/"
 	weight = -1000
-#[[navbar]]
-#	name = "CfP"
-#	identifier = "cfp"
-#	url = "https://cfp.loadays.org/2019/"
-#	weight = -900
+[[navbar]]
+	name = "CfP"
+	identifier = "cfp"
+	url = "https://cfp.loadays.org/2020/cfp"
+	weight = -900
 #[[navbar]]
 #	name = "Schedule"
 #	identifier = "schedule"
@@ -20,10 +20,15 @@
 	url = "/2020/sponsors/"
 	weight = -800
 [[navbar]]
-	name = "Social"
-	identifier = "social"
-	url = "/2020/social/"
+	name = "MatterMost"
+	identifier = "mattermost"
+	url = "https://mattermost.loadays.org/chat/channels/general"
 	weight = -700
+#[[navbar]]
+#	name = "Social Event"
+#	identifier = "social"
+#	url = "/2020/social/"
+#	weight = -700
 #[[navbar]]
 #	name = "Speakers"
 #	identifier = "speakers"
