@@ -1,7 +1,7 @@
 LOADays Hugo based website
 =================================
 
-[![Build Status](https://www.travis-ci.org/loadays/loadays.org.svg?branch=master)](https://www.travis-ci.org/loadays/loadays.org)
+[![CircleCI](https://circleci.com/gh/loadays/loadays.org.svg?style=svg)](https://circleci.com/gh/loadays/loadays.org)
 
 This github repo builds the website for loadays.org
 
